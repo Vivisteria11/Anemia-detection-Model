@@ -1,6 +1,7 @@
 # Anemia-detection-Model
 📌 AI-Based Anemia Detection Using MobileNetV2
 This project presents an AI-powered anemia detection system that classifies eye conjunctiva images into Anemic or Normal categories using transfer learning with MobileNetV2. The solution is designed to be lightweight, accurate, and deployable on edge devices via TensorFlow Lite (TFLite).
+Accuracy of 92.5% achieved.
 
 ✅ Key Features
 🔍 Model: Pretrained MobileNetV2 backbone with custom classification layers.
